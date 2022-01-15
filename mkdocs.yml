@@ -1,0 +1,13 @@
+site_name: Data-Structures
+site_url: https://example.com
+nav:
+    - Home: index.md
+    - GettingStarted: Getting Started.md
+    - Stacks: Stacks.md
+    - About: About.md
+theme: readthedocs    
+
+
+
+  
+
